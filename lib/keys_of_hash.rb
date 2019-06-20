@@ -2,6 +2,7 @@ class Hash
   def keys_of(arguments)
     # code goes here
     arguments.each do |keys|
-      keys 
+      puts "#{keys}:"
   end
+  return keys 
 end
