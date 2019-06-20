@@ -4,4 +4,4 @@ class Hash
     arguments.each do |keys|
       puts "#{keys}:"
   return keys
-end
+  end
